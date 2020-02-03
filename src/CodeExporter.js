@@ -682,7 +682,7 @@ export default function CodeExporterWrapper({
         zIndex: 7,
       }}>
       <div className="doc-explorer-title-bar">
-        <div className="doc-explorer-title">Code Exporter</div>
+        <div className="doc-explorer-title">Code Exporter_</div>
         <div className="doc-explorer-rhs">
           <div className="docExplorerHide" onClick={hideCodeExporter}>
             {'\u2715'}
